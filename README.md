@@ -1,4 +1,6 @@
-# Chilimba Tracker
+﻿# Zed-Circle-Chilimba-Group-Tracker
+
+## Chilimba Tracker
 
 This project is a Java-based group savings tracker for a Chilimba (rotating savings group). It keeps a record of members, contributions, and payouts, calculates the remaining pot, and exposes a simple REST API and HTML front end.
 
