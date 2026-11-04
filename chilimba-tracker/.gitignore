@@ -1,0 +1,4 @@
+target/
+*.class
+chilimba_data.json
+.github/modernize/
