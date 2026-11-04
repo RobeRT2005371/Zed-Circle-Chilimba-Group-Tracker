@@ -8,6 +8,16 @@ This project is a Java-based group savings tracker for a Chilimba (rotating savi
 
 The application models a rotating savings group in which members contribute money on a regular basis, while the group keeps track of who has paid, how much is in the pot, and who should receive the next payout. The system stores data in a JSON file so it still exists after the server is restarted.
 
+## Members
+
+| Member Name | Member ID |
+| --- | --- |
+| Bristol Shalowa | 2421003 |
+| Emmanuel Sichilima | 2410156 |
+| Israel Mumba | 2420971 |
+| Robert Sichizya | 2410264 |
+| Chitonge Mumba | 2420927 |
+
 ## Assignment requirement mapping
 
 The project is designed to satisfy the assignment requirements shown in the brief:
