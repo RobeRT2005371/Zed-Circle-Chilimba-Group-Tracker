@@ -1,0 +1,22 @@
+{
+  "members": [
+    {
+      "memberNumber": "M002",
+      "name": "Mwansa kangwa",
+      "phoneNumber": "0960000000"
+    }
+  ],
+  "memberPasswordHashes": {
+    "M002": "pbkdf2$210000$xJ2Lu2p/0ce6mNAX+ro/zA\u003d\u003d$ComGjnaXjQND/P+4eggWfbfrzOPewJRvd7eEDMPb/M8\u003d"
+  },
+  "contributions": [
+    {
+      "id": "CONTR-831fc959",
+      "memberNumber": "M002",
+      "amount": 100.0,
+      "date": "2026-11-04",
+      "type": "CASH"
+    }
+  ],
+  "payouts": []
+}
